@@ -1,2 +1,2 @@
-# Random-Wuote-Generator
+# Random-Quote-Generator
 React Certification Projects
